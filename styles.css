@@ -1,2 +1,26 @@
-.vanish{
-display: none;}
+.backround1{
+    background-image:
+    linear-gradient( rgba(19, 19, 24, 0.50),  rgba(19, 19, 24, 0.50)),
+    url('../B9A3/Images/2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.backround2{
+    background-image:
+    linear-gradient(to bottom,  rgba(19, 19, 24, 0.50),  rgba(19, 19, 24, 0.50)),
+    url('../B9A3/Images/3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+.backround3{
+    background-image:
+    linear-gradient(to bottom,  rgba(19, 19, 24, 0.50),  rgba(19, 19, 24, 0.50)),
+    url('../B9A3/Images/4.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
